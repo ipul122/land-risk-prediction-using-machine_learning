@@ -80,7 +80,7 @@ Feature importance analysis is also conducted to understand the contribution of 
 ---
 
 ## Project Structure
-
+"""
 land-risk-prediction-using-ml/
 │
 ├── ML_Implementation.ipynb # Training, evaluation, and analysis
@@ -88,4 +88,4 @@ land-risk-prediction-using-ml/
 ├── regenerated_landslide_risk_dataset.xlsx
 ├── README.md
 └── .gitignore
-
+"""
