@@ -78,14 +78,3 @@ The models are evaluated using:
 Feature importance analysis is also conducted to understand the contribution of each input variable.
 
 ---
-
-## Project Structure
-'''
-land-risk-prediction-using-ml/
-│
-├── ML_Implementation.ipynb # Training, evaluation, and analysis
-├── predict.ipynb # Model loading and inference
-├── regenerated_landslide_risk_dataset.xlsx
-├── README.md
-└── .gitignore
-'''
